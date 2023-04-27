@@ -1,0 +1,5 @@
+the file is nearly 2GB
+
+url: https://drive.google.com/drive/folders/1cuHMaV9-E8rnIt1NEgj2zEzE1pD18Amt?usp=sharing
+
+expected path: "preprocess_data_set\w2v_vec100.csv"
